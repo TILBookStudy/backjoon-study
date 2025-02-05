@@ -21,3 +21,6 @@
       - [깃허브 링크](https://github.com/kwanho12)
     - 이건희 : hegunhee
       - [깃허브 링크](https://github.com/hegunhee)
+
+# 진행사항
+![image](https://github.com/user-attachments/assets/1b13f425-218f-49ba-8646-12dae536ebb4)
